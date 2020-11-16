@@ -8,7 +8,7 @@ Universidad de San Carlos de Guatemala
 
 Espino Barrios, Luis Fernando. (professor)
 
-Alvarado Kevin, Cardona Berny, Galicia Nery, Giron Gary, Guarchaj Ottoniel, Hernandez Fernando Antonio, Hevia Eduardo, Lemus Yoselin, Lizama Luis, Melgar James, Morales Mario, Ordoñez Bryan, Solares Cesar, Vega Daniel, Veliz Jorge, Villatoro Kherson, Solares Omar, Morales Oscar. (students)
+Alvarado Kevin, Cardona Berny, Galicia Nery, Giron Gary, Guarchaj Ottoniel, Hernandez Fernando Antonio, Hevia Eduardo, Lemus Yoselin, Lizama Luis, Melgar James, Morales Mario, Ordoñez Bryan, Solares Cesar, Vega Daniel, Veliz Jorge, Villatoro Kherson, Solares Omar. (students)
 
 ### Resume
 In the current pandemic that the world is experiencing, COVID-19 has had great variations and tends to be misleading due to the new waves derived from social relaxation, today, there are several
@@ -286,12 +286,19 @@ scope of this research.
 <img src="https://user-images.githubusercontent.com/10952236/99139973-299f5f80-2603-11eb-9504-512953798b69.png" width="400">
 </p>
 
-As we can see, the numbers seem to similar to Guatemala, but we must also take into consideration that Japans population is 126.5 million as of 2018 and Guatemalas population
-is 17.25 million as of 2018 which is a staggering difference, this reflects in the behavior shown in the graphs, Japans seems to be more steady, while most of
-Central America is quite the oposite.
+As we can see, the number of confirmd cases seem to be similar to Guatemala's, but also: 
+
+|                  | Japan      | Guatemala  |
+| ---------------- | ---------- | ---------- |
+| Population       | 126,500,000| 17,250,000 |
+| Cases            | 108,983    | 113,543    |
+
+
+which taken into cosideration the population ratio vs the confirmed cases of each country results in a staggering difference, this also reflects in the behavior shown in the graphs concerning central american countrys as to why Japans seems to be more steady while most of Central America is quite the oposite, also complementing the prediction
+describing that the pattern in which cases in Japan will arise in a steady manner.
+
 So now we must ask ourselves which factors create this difference, and the one that stands out the most is the culture, considering our current situation
-perhaps the best way to mitigate the impact of the innevitable second wave might be benchamark the succesful way in which other countrys are fighting this, and we can
-clearly see that Japan is a great example as we can see in this predicted outcome:
+perhaps the best way to mitigate the impact of the most likely innevitable second wave might be benchamarking the succesful way in which other countrys are fighting this, and we canclearly see that Japan is a great example as we can see in this predicted outcome.
 
 ## Average deaths from confirmed cases and age of covid 19 in Guatemala
 
@@ -595,25 +602,6 @@ According to the data collected, of the number of deaths per day, on the website
 <p align="center">
 <img src="https://user-images.githubusercontent.com/20620289/99195017-c91a3a80-2748-11eb-8b70-88af693cbec7.png" width="400">
 </p>
-
-# Coronavirus (COVID-19) Mortality Rate in Guatemala
-
-To calculate the mortality we need:
-1. The number of accumulated cases registered regardless of the current situation whether positive or negative.
-2. The total number of deceased cases.
-
-## Fatality Rate based on confirmed cases and deaths in Guatemala
-
-According to the data taken from the page of the Ministry of Public Health and Social Assistance (MSPAS) currently there are 114,885 confirmed accumulated cases and a total of 3,932 cases of registered deaths and using the formula of Infection Fatality Rate (IFR) = Deaths / Cases = 3,932/114,885 = 3.4 % (3.4% of people infected with SARS-CoV-2 have a fatal outcome, while 96.6% recover). This without taking into account that in addition to the cases recorded by the MSPAS there are many cases that have not been taken into account because they are asymptomatic (or present with very mild symptoms) and that testing has not been performed on the entire population, only a fraction of the SARS-CoV-2 infected population is detected, then this would significantly reduce the mortality rate.
-
-## Mortality Rate and Probability of Dying
-
-As of November 15, 3,932 people are estimated to have died out of a total population of 17,263,000 in Guatemala. This corresponds to 0.023% crude mortality rate to date, or 23 deaths per 100,000 population, or 1 death every 4,390 people.
-
-## Mortality Rate in one year 
-
-According to the estimates made in [201213336.py](https://github.com/LuisEspino/CoronavirusML/blob/main/2020-11/src/201213336.py). for July 2021, it is estimated that Guatemala will have a total of 255,556 confirmed cumulative cases and a total of 8,844 deceased cases and using the formula of Infection Fatality Rate (IFR) = Deaths / Cases = 8,844/255,556 = 3.4 % we get the same mortality rate calculated above.
-
 
 ### References
 
