@@ -318,7 +318,7 @@ With these related data we could predict active cases in Guatemalan men by day 3
 <img src="https://user-images.githubusercontent.com/20606917/99028199-ca731980-2534-11eb-9b42-be27b8432845.png" width="400">
 </p>
 
-### Comparative between Guatemala, Central America and Japan
+## Comparative between Guatemala, Central America and Japan
 
 As we can apretiate in the graphs above, we notice a trend between Guatemala and Countries in Central when it comes to covid stats, which is somehow expected
 since we can find alot of cultural similarities between this countries, but now we will compare them to Japan.
